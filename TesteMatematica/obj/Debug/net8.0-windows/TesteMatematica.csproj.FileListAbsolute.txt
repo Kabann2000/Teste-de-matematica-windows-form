@@ -1,0 +1,16 @@
+C:\Users\Aluno\Documents\JRC C#\TesteMatematica\bin\Debug\net8.0-windows\TesteMatematica.exe
+C:\Users\Aluno\Documents\JRC C#\TesteMatematica\bin\Debug\net8.0-windows\TesteMatematica.deps.json
+C:\Users\Aluno\Documents\JRC C#\TesteMatematica\bin\Debug\net8.0-windows\TesteMatematica.runtimeconfig.json
+C:\Users\Aluno\Documents\JRC C#\TesteMatematica\bin\Debug\net8.0-windows\TesteMatematica.dll
+C:\Users\Aluno\Documents\JRC C#\TesteMatematica\bin\Debug\net8.0-windows\TesteMatematica.pdb
+C:\Users\Aluno\Documents\JRC C#\TesteMatematica\obj\Debug\net8.0-windows\TesteMatematica.Form1.resources
+C:\Users\Aluno\Documents\JRC C#\TesteMatematica\obj\Debug\net8.0-windows\TesteMatematica.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\JRC C#\TesteMatematica\obj\Debug\net8.0-windows\TesteMatematica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\JRC C#\TesteMatematica\obj\Debug\net8.0-windows\TesteMatematica.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\JRC C#\TesteMatematica\obj\Debug\net8.0-windows\TesteMatematica.AssemblyInfo.cs
+C:\Users\Aluno\Documents\JRC C#\TesteMatematica\obj\Debug\net8.0-windows\TesteMatematica.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\JRC C#\TesteMatematica\obj\Debug\net8.0-windows\TesteMatematica.dll
+C:\Users\Aluno\Documents\JRC C#\TesteMatematica\obj\Debug\net8.0-windows\refint\TesteMatematica.dll
+C:\Users\Aluno\Documents\JRC C#\TesteMatematica\obj\Debug\net8.0-windows\TesteMatematica.pdb
+C:\Users\Aluno\Documents\JRC C#\TesteMatematica\obj\Debug\net8.0-windows\TesteMatematica.genruntimeconfig.cache
+C:\Users\Aluno\Documents\JRC C#\TesteMatematica\obj\Debug\net8.0-windows\ref\TesteMatematica.dll
